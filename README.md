@@ -2416,3 +2416,4 @@ Signed,
 - Ramesh Kummara ([@rameshkum](https://github.com/rameshkum)), `Fullstack software Engineer` / `System Analyst`  based in Hyderabad, India
 Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullstack software developer` | `IOT Developer` based in Gurgaon, India
 - Arnaud Zheng ([@arnaud-zg](https://github.com/arnaud-zg)), Software Engineer
+- Serhii Antropov ([@leksunski](https://github.com/leksunski)), Developer at [Hum3D](https://hum3d.com/)
