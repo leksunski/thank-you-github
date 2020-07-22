@@ -2364,6 +2364,7 @@ Signed,
 - Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
 - Chirag Jain ([@chirag-jn](https://github.com/chirag-jn)), Student, IIIT Delhi, India
 - Terence Chan ([@Hackin7](https://github.com/Hackin7)), Student, Singapore
+- Serhii Antropov ([@leksunski](https://github.com/leksunski)), Developer at [Hum3D](https://hum3d.com/)
 - Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
 - Kasidech Chumkun ([@kawaeee](https://github.com/Kawaeee)), Student, SIT KMUTT, Bangkok,Thailand
 - Stanis Ram ([@SRamanauskas](https://github.com/Sramanauskas)), developer, Kaunas, Lithuania
